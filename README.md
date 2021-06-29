@@ -1,5 +1,5 @@
 # meshlab_manual
-translation of menu bar and help of some sampling and reconstruction algorithm
+translation of menu bar and help of some sampling and reconstruction algorithm  
 other reference: https://my.oschina.net/u/4356092/blog/3723390
 
 # Content
